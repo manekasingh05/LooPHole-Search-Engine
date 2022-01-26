@@ -3,9 +3,9 @@
 <head>
 	<title>Welcome to LooPHole</title>
 
-	<meta name="description" content="Search different content provided by the user">
-	<meta name="keywords" content="Search engine, LooPHole, websites, content, images, writeups">
-	<meta name="author" content="ManekaSingh">
+	<meta name="description" content="Search the web for sites, images and various content.">
+	<meta name="keywords" content="Search engine, LooPHole, Images, Content, websites">
+	<meta name="author" content="Maneka Singh">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
